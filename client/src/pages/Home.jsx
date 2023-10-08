@@ -25,7 +25,7 @@ const Home = () => {
     return (
         <section className="max-w-7xl mx-auto">
             <div className={"flex items-center flex-col"}>
-                <h1 className="font-extrabold text-alabaster text-5xl">The Community Showcase</h1>
+                <h1 className="font-extrabold text-antiflash-white text-5xl">The Community Showcase</h1>
             </div>
 
             <div className="mt-10">
